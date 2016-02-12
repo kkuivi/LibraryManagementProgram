@@ -1,0 +1,3 @@
+1	Richard	Yao	Johnson	11	0	0.0
+2	Derrick	Kojo	Asamoah	12	0	0.0
+3	Eric	Baba	Fubu	9	0	0.0

@@ -1,0 +1,6 @@
+788	The Truman Show	Jim	null	Carrey	Disney Books	Action	New	0	0004/01/03	false
+567	The Hardy Brothers	Arnold	Reggie	Schwarznegger	Amazon Books	Action	New	0	0003/12/03	false
+445	The Gods Must Be Crazy	Chinua	Baba	Anichebe	Penguin Books	Action	Good	0	0001/04/01	false
+213	Spiderman	Stan	null	Lee	Marvel Comics	Action	Good	0	0004/05/03	false
+675	Programming Made Easy	John	null	Lennon	Penguin Books	Mathematics	Good	0	0004/02/03	false
+231	Spiderman	Stan	null	Lee	Marvel Comics	Action	Good	0	0004/08/03	false
