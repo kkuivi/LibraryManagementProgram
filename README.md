@@ -6,3 +6,5 @@ As part of a final class project I created a Java program that acts as an intera
 ## Code
 `MainProgram.java` is where the program is run from. 
 
+## Documentation
+Documentation for this project can be found in `Documentation.pdf`.
